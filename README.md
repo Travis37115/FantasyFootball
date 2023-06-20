@@ -1,5 +1,7 @@
 # FantasyFootball
 Fantasy Football Draft Strategy Analysis
+https://www.canva.com/design/DAFmSK-R0Tc/mNw1By_rtc3WW0Y--_GFbQ/view?utm_content=DAFmSK-R0Tc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 Overview
 This project provides an analysis of fantasy football data to help fantasy football enthusiasts make informed decisions during their drafts and throughout the season. It includes data processing, exploratory analysis, and key insights for player selection.
 
