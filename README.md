@@ -13,7 +13,7 @@ Draft Strategy: It offers guidance on avoiding overloading your team with player
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/fantasy-football-analysis.git
+Clone the repository: git clone https://github.com/Travis37115/FantasyFootball
 Navigate to the project directory: cd fantasy-football-analysis
 Install the required dependencies: pip install -r requirements.txt
 Run the main script: python main.py
