@@ -7,7 +7,7 @@ This project provides an analysis of fantasy football data to help fantasy footb
 
 Features
 Data Processing: The project processes raw data from various sources, cleans and combines the data to create a unified dataset for analysis.
-Fantasy_half_ppr_pts2018.csv, Fantasy_half_ppr_pts2019.csv, Fantasy_half_ppr_pts2020.csv, Fantasy_half_ppr_pts2021.csv, Fantasy_half_ppr_pts2022.csv, FantasyPros_2023_Draft_ALL_Rankings.csv
+Fantasy_half_ppr_pts2018.csv, Fantasy_half_ppr_pts2019.csv, Fantasy_half_ppr_pts2020.csv, Fantasy_half_ppr_pts2021.csv, Fantasy_half_ppr_pts2022.csv, FantasyPros_2023_Draft_ALL_Rankings.csv)
 
 Exploratory Analysis: It performs exploratory analysis on player statistics, such as touchdowns, interceptions, total points, and more. It provides visualizations and summaries to gain insights into player performance.
 Positional Analysis: The project analyzes player performance by position (QB, RB, WR, TE) and identifies top players in each position based on various metrics.
